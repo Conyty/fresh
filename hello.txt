@@ -10,7 +10,7 @@ hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
-hello aiguigu! hello git! master modify
 hello aiguigu! hello git!
-hello aiguigu! hello git! hotfix modify
+hello aiguigu! hello git!
+hello aiguigu! hello git! master modify
 hello aiguigu! hello git!
