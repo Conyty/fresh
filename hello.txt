@@ -13,4 +13,5 @@ hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git! master modify
+hello aiguigu! hello git! hotfix modified
 hello aiguigu! hello git!
